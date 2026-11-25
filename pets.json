@@ -1,0 +1,31 @@
+{
+    "animals": [],
+    "vaccinations": [
+        {
+            "id": 2,
+            "animal_id": 3,
+            "vaccine": "qwertyuijf",
+            "date": "12312345"
+        },
+        {
+            "id": 3,
+            "animal_id": 4,
+            "vaccine": "fghjkl",
+            "date": "12345345436"
+        }
+    ],
+    "visits": [
+        {
+            "id": 1,
+            "animal_id": 4,
+            "date": "1234567890-",
+            "reason": "ывауфка"
+        },
+        {
+            "id": 2,
+            "animal_id": 3,
+            "date": "1234546546",
+            "reason": "енгшджюбьтим"
+        }
+    ]
+}
